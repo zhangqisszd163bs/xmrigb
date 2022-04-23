@@ -1,0 +1,2 @@
+# xmrigb
+Windows XMRig dependencies
